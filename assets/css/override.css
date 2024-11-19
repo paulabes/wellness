@@ -1,7 +1,4 @@
-.custom-navbar {
-    background-color: white;
-}
-
+/* navbar */
 .logo-img {
     height: 32px;
     width: auto;
@@ -9,4 +6,8 @@
 
 .text-custom .nav-link {
     color: #3b2f2f;
+}
+
+.nav-link.active {
+    font-weight: bold;
 }
