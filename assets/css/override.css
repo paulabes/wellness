@@ -1,15 +1,10 @@
-navbar {
-    background-color: #fff;
-}
-
-navbar a {
-    color: #382f2f;
-}
-
 .logo-brand {
-    background: url('./assets/images/logo.png') no-repeat left center;
-    background-size: 30px;
+    background: url('/workspace/wellness/assets/images/logo.png') no-repeat left center;
+    background-size: 32px;
     padding-left: 40px; /* Adjust padding to make space for the logo */
     display: inline-block;
 }
 
+body {
+    background-color: blue;
+}
