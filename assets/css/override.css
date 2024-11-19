@@ -1,10 +1,12 @@
-.logo-brand {
-    background: url('/workspace/wellness/assets/images/logo.png') no-repeat left center;
-    background-size: 32px;
-    padding-left: 40px; /* Adjust padding to make space for the logo */
-    display: inline-block;
+.custom-navbar {
+    background-color: white;
 }
 
-body {
-    background-color: blue;
+.logo-img {
+    height: 32px;
+    width: auto;
+}
+
+.text-custom .nav-link {
+    color: #3b2f2f;
 }
