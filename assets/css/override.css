@@ -26,3 +26,9 @@
     color: #faf2da;
     border: 1px solid #1b130b;
 }
+
+.btn:hover {
+    background-color: #faf2da;
+    color: #1b130b;
+    border: 1px solid #faf2da;
+}
